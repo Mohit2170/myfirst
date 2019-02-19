@@ -4,4 +4,7 @@ badminton
 carrom
 basketball
 
+cricket 
+gym
+
 thank you ladies and gentlemen 
